@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikeHennessy
-- 👀 I’m interested in programming and design
-- 🌱 I’m currently learning Mechanical Engineering and Computer Science
+- 👀 I’m interested in sustainability in engineering, with a focus in renewable energy
+- 🌱 I’m currently studying sustainability in engineering and design
 - 📫 How to reach me: mikethennessy@gmail.com, www.linkedin.com/in/mike-hennessy1/
 
 <!---
